@@ -1,0 +1,21 @@
+{
+  "name": "2025573010064_praktikum-algortima-dan-struktur-data",
+  "version": "1.0.0",
+  "description": "2025573010064 \r Dosen : Pak Reza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandySalim-420/2025573010064_Praktikum-Algortima-Dan-Struktur-Data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RandySalim-420/2025573010064_Praktikum-Algortima-Dan-Struktur-Data/issues"
+  },
+  "homepage": "https://github.com/RandySalim-420/2025573010064_Praktikum-Algortima-Dan-Struktur-Data#readme"
+}
