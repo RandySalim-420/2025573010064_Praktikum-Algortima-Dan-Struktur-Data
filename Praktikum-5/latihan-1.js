@@ -59,3 +59,4 @@ hitungKompleksitas(n, fnA);
 hitungKompleksitas(n, fnB);
 hitungKompleksitas(n, fnC);
 hitungKompleksitas(n=50, fnD);
+
